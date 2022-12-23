@@ -1,0 +1,16 @@
+@charset "UTF-8";
+.header {
+    background-color: black;
+}
+
+h1 {
+    color: beige;
+}
+
+.carousel-control-next-icon {
+    background-image: url(png-transparent-arrow-font-awesome-computer-icons-right-arrow-cdr-angle-hand-thumbnail.png);
+}
+
+.carousel-control-prev-icon {
+    background-image: url(leftarrow1_80827.png);
+}
